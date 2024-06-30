@@ -1,0 +1,42 @@
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+# Visual Studio 2017 user specific files
+*.suo
+# Visual Studio 2017 build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+# Visual Studio 2017 cache files
+*.cache
+# Visual Studio 2017 log files
+*.log
+# Visual Studio 2017 Intellisense
+*.sdf
+# Visual Studio 2017 Native Desktop App
+*.VC.db
+# Visual Studio 2017 C++ build results
+*.sbr
+# Visual Studio 2017 Test Results
+[Tt]est[Rr]esult*/
+# Visual Studio 2017 Test Results
+[Bb]uild[Ll]og.*
+# Resharper Plugin in Visual Studio 2017
+_ReSharper*/
+# Resharper Plugin in Visual Studio 2017
+*.[Rr]e[Ss]harper
+# Visual Studio 2017 Add-in cache
+*.addin.cache
+# Visual Studio 2017 SQL Server Project User Options
+*.user
+# Visual Studio 2017 TFS binding
+*.vssscc
+*.vspscc
+# Visual Studio 2017 TFS binding
+_TemporarilyGeneratedFile_*.cs
+# Visual Studio 2017 TFS binding
+*.vcxproj.vspscc
+# Visual Studio 2017 TFS binding
+*.vcproj.vspscc
+

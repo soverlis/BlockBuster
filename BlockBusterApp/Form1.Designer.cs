@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace BlockBusterApp
 {
     partial class Form1
     {
